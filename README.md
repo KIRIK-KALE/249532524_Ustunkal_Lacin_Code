@@ -5,3 +5,4 @@ Due to the limitation of the dissertation upload section, this Github page will 
 
 Notes about the code:
 1. Change you filepath as necessary: I recommend using your desktop folder
+2. I have uploaded two versions of the code: 1) DISSFINAL777 will have the code after running all the steps with the output cells, 2) DISSFINAL_Kernel_cleared has all the output cells cleared

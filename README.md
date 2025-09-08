@@ -5,10 +5,9 @@ Due to the limitation of the dissertation upload section, this GitHub page will 
 
 Notes about the code:
 1. Change your filepath as necessary: I recommend using your desktop folder
-2. I have uploaded two versions of the code: 1) DISSFINAL777 will have the code after running all the steps with the output cells, 2) DISSFINAL777_Kernel_cleared has all the output cells cleared
-3. Due to the API being a $99 per month feature from Twelvedata.com (required to import MOEX equities), I have not featured the data collection code, as my membership has expired due to the fact that the University of Bath does not have an API budget for students, and I can't keep paying the subscription fee.
-4. Other than GitHub, I didn't know how else to submit the code. I tried contacting the university, but no one got back to me.
-5. Finally, the code has two aspects which are worth mentioning: 1) some things may seem like redundancies; however, after my numerous attempts, I realised that the notebook requires most of them in order to run successfully, as the length made computation times rather long. 2) Some of the steps are directly taken from other attempts, so the reason they don't line up 1-X is due to this.
+2. Due to the API being a $99 per month feature from Twelvedata.com (required to import MOEX equities), I have not featured the data collection code, as my membership has expired due to the fact that the University of Bath does not have an API budget for students, and I can't keep paying the subscription fee.
+3. Other than GitHub, I didn't know how else to submit the code. I tried contacting the university, but no one got back to me.
+4. Finally, the code has two aspects which are worth mentioning: 1) some things may seem like redundancies; however, after my numerous attempts, I realised that the notebook requires most of them in order to run successfully, as the length made computation times rather long. 2) Some of the steps are directly taken from other attempts, so the reason they don't line up 1-X is due to this.
 
 The following is an outline of how the code works (scroll down for details on each, after line 76):
 

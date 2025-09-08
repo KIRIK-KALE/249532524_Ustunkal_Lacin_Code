@@ -352,7 +352,7 @@ Ops: Choose VAR lag by AIC (cap), roll windows, compute GFEVD shares (order-inva
 
 31) T11A — GPR/EPU vs connectedness & event activity
 
-Purpose: Put your connectedness in macro context and check co-movement.
+Purpose: Put the connectedness in macro context and check co-movement.
 Inputs: connectedness_total.csv, events_clean_aligned.csv, optional GPR.csv, EPU.csv
 Outputs: Monthly panel/correlations CSVs; overlays in /plots_context
 Ops: Aggregate TCI to monthly mean; count events per month; load/parse GPR/EPU monthly series; z-score, correlate, and plot overlays (TCI vs GPR/EPU; events vs TCI vs GPR).
